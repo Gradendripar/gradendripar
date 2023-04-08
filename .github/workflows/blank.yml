@@ -39,7 +39,7 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: Push to Github
-        uses: EndBug/add-and-commit@v7
+        uses: EndBug/add-and-commit@v8
         with:
           branch: main
           message: "Generate Contribution Snake"
