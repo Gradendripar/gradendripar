@@ -33,11 +33,12 @@ Here are some ideas to get you started:
 <strong>Hi，I am Gradendripar！！！👋 </strong>
 
 </pre>
+
 <img width="100%" alt="snake" src="./assets/github-contribution-grid-snake.svg"/>
 
 ### ⭐️ &nbsp;Github Star
 
-<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gradendripar&count_private=true&show_icons=true"/>
+<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gradendripar&count_private=true&show_icons=true&include_all_commits=true"/>
 
 ### 🛠 &nbsp;Tech Stack
 <!-- ![Python](https://img.shields.io/badge/-Python-Python?style=flat-square&logo=Python)
@@ -46,7 +47,7 @@ Here are some ideas to get you started:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-Bootstrap?style=flat-square&logo=Bootstrap)
 ![Vue](https://img.shields.io/badge/-Vue-Vue?style=flat-square&logo=Vue.js) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gradendripar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gradendripar&hide=php,scss,javascript,css,hack&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🤝🏻 &nbsp;Connect with Me
 <a href="mailto:tooziya@tooziya.com"><img alt="Email" src="https://img.shields.io/badge/Email-tooziya@tooziya.com-blue?style=flat-square&logo=Gmail"></a>
