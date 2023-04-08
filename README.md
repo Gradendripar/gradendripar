@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 <strong>Hi，I am Gradendripar！！！👋 </strong>
 
 </pre>
-
 <img width="100%" alt="snake" src="./assets/github-contribution-grid-snake.svg"/>
 
 ### ⭐️ &nbsp;Github Star
