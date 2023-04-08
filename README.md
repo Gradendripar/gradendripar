@@ -50,8 +50,10 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gradendripar&hide=php,scss,javascript,css,hack&layout=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🤝🏻 &nbsp;Connect with Me
+
 <a href="mailto:tooziya@tooziya.com"><img alt="Email" src="https://img.shields.io/badge/Email-tooziya@tooziya.com-blue?style=flat-square&logo=Gmail"></a>
 
 
 ### 🛳 &nbsp;Your ticket ID for this visit
+
 <img src="https://profile-counter.glitch.me/gradendripar/count.svg" />
