@@ -21,14 +21,15 @@ Here are some ideas to get you started:
      /\__\         /\  \         /\__\     /\__\     /\  \    
     /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
    /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
-  /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+  /::\  \ ___   /::\ \:\  \   /:/  /    /:/  /    /:/  \:\  \ 
  /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
- \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+ \/__\:\/:/  / \:\ \:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
       \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
       /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
      /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
      \/__/         \/__/         \/__/     \/__/     \/__/    
-     
+
+
 <strong>Hi，I am Gradendripar！！！👋 </strong>
 
 </pre>
@@ -40,11 +41,11 @@ Here are some ideas to get you started:
 <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gradendripar&count_private=true&show_icons=true"/>
 
 ### 🛠 &nbsp;Tech Stack
-![Python](https://img.shields.io/badge/-Python-Python?style=flat-square&logo=Python)
+<!-- ![Python](https://img.shields.io/badge/-Python-Python?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-Java?style=flat-square&logo=openjdk)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-SpringBoot?style=flat-square&logo=SpringBoot)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-Bootstrap?style=flat-square&logo=Bootstrap)
-![Vue](https://img.shields.io/badge/-Vue-Vue?style=flat-square&logo=Vue.js)
+![Vue](https://img.shields.io/badge/-Vue-Vue?style=flat-square&logo=Vue.js) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gradendripar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
